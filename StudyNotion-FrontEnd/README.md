@@ -8,7 +8,7 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 1. Clone the repository to your local machine.
     ```sh
-    git clone https://github.com/DivyaP1063/Edulance.git
+   https://github.com/laxmany9335/Study-Notion-.git
     ```
 
 1. Install the required packages.
