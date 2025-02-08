@@ -54,7 +54,7 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/DivyaP1063/StudyNotion.git
+https://github.com/laxmany9335/Study-Notion-.git
 ```
 
 <p>2. Navigate to the project directory:</p>
