@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion\_so9ztx.mkv](https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion_so9ztx.mkv)
+<!-- [https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion\_so9ztx.mkv](https://res.cloudinary.com/dfvs0kijp/video/upload/v1735555989/StudyNotion_so9ztx.mkv) -->
 
 <h2>Project Screenshots:</h2>
 
@@ -89,6 +89,12 @@ cd backend npm start
 
 ```
 cd frontend npm start
+```
+
+<p>9. install all module</p>
+
+```
+ npm install
 ```
 
 <h2>🍰 Contribution Guidelines:</h2>
